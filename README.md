@@ -1,4 +1,4 @@
-# Project_1
+# Educational Keylogger 
 Simple Keylogger in Python utilising email service
 
 
