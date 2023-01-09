@@ -1,4 +1,5 @@
 # Project_1
-Game in Python for first project
+Simple Keylogger using emailing in Python
 
-Will be adding things soon
+
+Code needs to be fixed
